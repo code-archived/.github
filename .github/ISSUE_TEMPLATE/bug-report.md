@@ -1,9 +1,9 @@
 ---
 name      : Bug Report
 about     : Report and Describe a Problem
-title     : [BUG]: 
+title     : 
 labels    : bug
-assignees : ZenithClown
+assignees : ''
 
 ---
 ## Overview
