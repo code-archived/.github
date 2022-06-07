@@ -9,6 +9,7 @@
 * :toolbox: [Issue Templates](.github/ISSUE_TEMPLATE) for reporting a `bug` :bug: and for requiesting a *new feature* :gear: is added.
 * :label: [MIT License](LICENSE) file is added. All the projects in this organization adheres to MIT License unless specified. Thus, you are free to use and distribute any/part of the project. Do refer my [profile:bangbang:](https://github.com/ZenithClown) or the [organization profile:exclamation:](https://github.com/pOrgz-dev) if you use the code :warning:!
 * :nut_and_bolt: [PULL Request Template](.github/PULL_REQUEST_TEMPLATE.md) is a simple representation to open a pull request in any of the projects associated in this organization.
+* :printer: [CODE of CONDUCT](.github/CODE_OF_CONDUCT.md) adheres to [Contributor Convent](https://www.contributor-covenant.org/) that lists the code of conduct for all the open source projects in this organization.
 
 ## Reference Link(s)
 1. Create/Edit the Organization's `README.md` file for [public](profile/README.md). ([documentation](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile):notebook_with_decorative_cover:)
