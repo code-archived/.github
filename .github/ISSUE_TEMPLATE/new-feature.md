@@ -1,9 +1,9 @@
 ---
 name      : New Feature or Enhancement
 about     : Request for a New Feature or Enhancement
-title     : [FEATURE]: 
+title     : 
 labels    : enhancement
-assignees : ZenithClown
+assignees : ''
 
 ---
 ## Overview
