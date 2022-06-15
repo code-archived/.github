@@ -14,6 +14,7 @@ for the PR to be accepted and merged into the `master` branch.
 
 [NOTE]: # ( Please mention the type of change that will occur with this PR )
 [NOTE]: # ( Generally, change is one of the following types, choose the correct one, and delete the rest )
+This PR brings the following change(s):
 * :bug: **Bug Fix** - a _non-breaking_ change that fixes an issue.
 * :star2: **New Feature** - a _non-breaking_ change that adds new functionality.
 * :hammer_and_wrench: **Breaking Change** - can either be a *fix* or a *feature* that might change the functionality to not work as expected.
