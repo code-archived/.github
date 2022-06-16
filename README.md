@@ -4,6 +4,7 @@
   <a href="https://github.com/pOrgz-dev/.github/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/pOrgz-dev/.github?logo=github&style=plastic"></a>
   <a href="https://github.com/pOrgz-dev/.github/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/pOrgz-dev/.github?logo=github&style=plastic"></a>
   <a href="https://github.com/pOrgz-dev/.github/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/pOrgz-dev/.github?logo=git&style=plastic"></a>
+  <a href="https://dashboard.guardrails.io/gh/pOrgz-dev/repos/135049"><img alt="GuardRails Badge" src="https://api.guardrails.io/v2/badges/pOrgz-dev/.github.svg?token=f077a0d0ff4e90f7b1c686b1cd19e82d2711f93413f5c4deafcbe59647c2427d&provider=github">
 </h1>
 
 <p align = "justify">This is an Organization :office: where shared accounts :key: are available related to <a href = "https://github.com/pOrgz-dev"><b>pOrgz-dev</b></a>. Currently, this organization is managed and owned by <a href = "https://github.com/ZenithClown">dPramanik :person_in_tuxedo:</a>.</p>
