@@ -1,0 +1,15 @@
+# GitHub Issue Forms
+# Migrating to Issue Forms, rather than using Markdown Issue Templates
+
+# do not allow users to create a blank issue form
+# this paramter can be controlled by setting the parameter to false
+blank_issues_enabled: false
+
+# let user display certain messages when creating a issues
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.community/
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
