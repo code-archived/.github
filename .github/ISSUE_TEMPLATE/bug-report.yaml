@@ -1,14 +1,15 @@
-name: Bug Report
-description: File a bug report
+name: 🐛 Bug Report
+description: Report a Bug on the Project
 title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+labels: ["bug"] # to do `triage`
+
 body:
+  # provide brief description about the project, and the issue template.
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        🌟 Thank you for taking your time ⌛ to file the 🐛 **bug report**. This issue is generated using
+        [issue forms](https://docs.github.com/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms).
   - type: input
     id: contact
     attributes:
